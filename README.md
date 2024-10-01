@@ -5,7 +5,7 @@
 </header>
 
 <a href="https://musfiqurrahmansayed.netlify.app"><img src="musfiq.gif" width="1000" height="400" alt="Musfiqur Rahman"/></a>
-#### Android || Kotlin || JavaScript || TailwindCss || RACT || Node || ExpressJs || MySQL || MongoDB || Firebase ||
+#### Android || Kotlin || JavaScript || TailwindCss || REACT || Node || Express || MySQL || MongoDB || Firebase ||
 
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on React development, Frontend, Android App Development,  Neural networks, Natural Language processing, Computer vision, Image processing. My passion is programming and the field of MERN Development. So, I want to be a Full-stack developer.
 I participated in many programming contests on online and offline platforms.
