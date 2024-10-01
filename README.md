@@ -15,18 +15,15 @@ I participated in many programming contests on online and offline platforms.
 </div>
 
 
+- 🔭 I’m currently studying on Daffodil International Professional Training Institute 
+- 🌱 I’m currently working on  MERN Stack, Android App Development(Kotlin)
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Backend Development
+- 💬 Ask me about Web Development and App development
+- 📫 How to reach me: Email: mohammadarif.ma02@gmail.com
+- 😄 Pronouns: MOHAMMAD ARIF
+- ⚡ Fun fact: #coding 
 
-
-
-- 🔭 I’m currently working on [Creative It Insstitute](https://www.creativeitinstitute.com/)
-
-- 🌱 I’m currently learning **JavaScript,React**
-
-- 💬 Ask me about **Frontend Developer**
-
-- 📫 How to reach me **mohammadarif.ma02@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
