@@ -11,7 +11,8 @@ I'm really energetic, & a great communicator I am punctual, dependable, and can 
 I participated in many programming contests on online and offline platforms.
 
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=6%2B+Years+Experience+in+Java+%26+Kotlin;Professional+Android+Developer;Spring+Boot;Rest+Api+Developer;Specialized+in+Microservice+Architecture;Data+Science+and+Machine+Learning+Developer" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=1.5%2B+Years+Experience+in 
+ FrontEnd DevelopMent+%26+ReactJS;Professional+Android+Developer;MREN ;Rest+Api+Developer;Specialized+in+FrontEndDevelopMEnt; alt="Typing SVG" /></a>
 </div>
 
 
