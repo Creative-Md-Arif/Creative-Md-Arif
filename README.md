@@ -10,9 +10,11 @@
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on React development, Frontend, Android App Development,  Neural networks, Natural Language processing, Computer vision, Image processing. My passion is programming and the field of MERN Development. So, I want to be a Full-stack developer.
 I participated in many programming contests on online and offline platforms.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-md-arif&label=Profile%20views&color=0e75b6&style=flat" alt="creative-md-arif" /> </p>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=6%2B+Years+Experience+in+Java+%26+Kotlin;Professional+Android+Developer;Spring+Boot;Rest+Api+Developer;Specialized+in+Microservice+Architecture;Data+Science+and+Machine+Learning+Developer" alt="Typing SVG" /></a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on [Creative It Insstitute](https://www.creativeitinstitute.com/)
 
